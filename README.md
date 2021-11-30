@@ -27,7 +27,7 @@
 
 #------------------------------------------------------------
 
-#The Function recieves the following input:-
+#The Function recieves any of the following inputs:-
 
 #>>resource report--Gives the resources available and the total cash that the money machine recieved
 
