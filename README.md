@@ -23,3 +23,10 @@
 
 #_-----------------------------------------------------------
 
+#>>coffmach()--Runs the function
+
+#------------------------------------------------------------
+#The Function recieves the following input:-
+#>>resource report--Gives the resources available and the total cash that the money machine recieved
+#>>Latte/Espresso/Cappuccino
+
